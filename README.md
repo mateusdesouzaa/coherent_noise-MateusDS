@@ -21,4 +21,4 @@ Mateus de Souza - Engenharia Biomédica - Unisinos
 
 ## 3) Criar pelo menos 2 diferentes mapeamentos de biomas (Gradientes) (2 imagens)
 ![](https://github.com/mateusdesouzaa/coherent_noise-MateusDS/blob/main/Exercicio_3/ex3_1.bmp)
-![](https://github.com/mateusdesouzaa/coherent_noise=MateusDS/blob/main/Exercicio_3/ex3_2.bmp)
+![](https://github.com/mateusdesouzaa/coherent_noise-MateusDS/blob/main/Exercicio_3/ex3_2.bmp)
